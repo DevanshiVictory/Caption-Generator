@@ -9,6 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@netlify/plugin-nextjs": "^5.15.11",
     "next": "16.2.6",
     "openai": "^6.38.0",
     "postcss": "^8.5.15",
